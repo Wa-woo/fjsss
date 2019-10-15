@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>过往战局1s.jpg</file>
+  </qresource>
+</RCC>
